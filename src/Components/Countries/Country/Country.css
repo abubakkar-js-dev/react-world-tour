@@ -1,0 +1,21 @@
+.country{
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid skyblue;
+    border-radius: 12px;
+}
+.flag{
+    height: 220px;
+    width: 380px;
+}
+
+.visited{
+    background-color: burlywood;
+}
+
+@media screen and (max-width: 768px) {
+   .flag{
+    width: 280px;
+    height: 180px;
+   }
+}

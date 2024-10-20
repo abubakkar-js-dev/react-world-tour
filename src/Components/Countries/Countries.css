@@ -1,0 +1,10 @@
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.flag-container img{
+    width: 80px;
+    height: 50px;
+    margin: 15px;
+}
